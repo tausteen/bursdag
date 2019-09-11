@@ -10,7 +10,7 @@ På hvilken nordlig lengdegrad er dette bilde tatt?
 ```
 
 o | x | o | o |
-- | - | - | - |
+-- | -- | -- | -- |
 
 
 ### Neste kode: hei
