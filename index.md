@@ -2,7 +2,7 @@
 
 For å finne koden til boksen må du gjennom en liten rebusløype.
 
-Hver oppgave vil gi deg en kode som du trenger for å fylle ut kodearket.
+Hver oppgave vil gi deg en nøkkel som bringer deg nærmere målet.
 
 ### Første oppgave har tema: Datoer
 
