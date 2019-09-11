@@ -10,25 +10,25 @@ Hver oppgave vil gi deg en kode som du trenger for å fylle ut kodearket.
 
 ![img](badebasseng.JPG)
 
-| o | x | o | x | o | o | 
+| o | o | o | o | x | x | 
 
 - Se bilde
 
 ![img](puls.JPG)
 
-| o | x | o | x | o | o | 
+| o | x | o | o | o | o | 
 
 - En uforglemmelig taxitur!
 
-| o | o | o | x | o | x | 
+| o | x | o | o | o | o | 
 
-- Atlanterhavsvegen
+- Hjem fra 154 km
 
 | x | x | o | o | o | o | 
 
 - Første kyss
 
-| o | x | o | x | o | o | 
+| o | x | o | o | o | o | 
 
 
 #### En liten transformering trengs for å finne løsningsordet.
