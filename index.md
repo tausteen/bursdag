@@ -30,7 +30,7 @@ Hver oppgave vil gi deg en nøkkel som bringer deg nærmere målet.
 
 | o | x | o | o | o | o | 
 
-- Jeg er pensjonist. Hvis du bytter om tallene i min alder, får du alderen på sønnen min. For ett år siden var jeg dobbelt så gammel som ham. Hvor gamel er jeg i dag?
+- 7-tall
 
 | x | o | 
 
