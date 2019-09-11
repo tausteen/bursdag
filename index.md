@@ -4,17 +4,17 @@ For å finne koden til boksen må du gjennom en liten rebusløype.
 
 Hver oppgave vil gi deg en nøkkel som bringer deg nærmere målet.
 
-### Første oppgave har tema: Datoer
+##### Inspirasjonsbilde!
+
+![img](escape.JPG)
+
+### Tema for første oppgave er: Ring en venn
 
 - Se bilde
-
-![img](badebasseng.JPG)
 
 | o | o | o | o | x | x | 
 
 - Se bilde
-
-![img](puls.JPG)
 
 | o | x | o | o | o | o | 
 
@@ -30,7 +30,6 @@ Hver oppgave vil gi deg en nøkkel som bringer deg nærmere målet.
 
 | o | x | o | o | o | o | 
 
-
-#### En liten transformering trengs for å finne løsningsordet.
+#### Løsningsordet er skjult. Bruk ditt skarpe blikk for å finne det.
 
 #### Neste oppgave finnes på: tausteen.github.io/løsningsord
