@@ -9,8 +9,11 @@ Hver oppgave vil gi deg en kode som du trenger for å fylle ut kodearket.
 På hvilken nordlig lengdegrad er dette bilde tatt?
 ```
 
-oo | xx | ox | ox |
--- | -- | -- | -- |
+o | x | o | o 
+- | - | - | - 
+
+o | x | o | o 
+-- | -- | -- | -- 
 
 
 ### Neste kode: hei
