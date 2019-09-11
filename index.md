@@ -6,27 +6,27 @@ Hver oppgave vil gi deg en kode som du trenger for å fylle ut kodearket.
 
 ### Første oppgave har tema: Datoer
 
-1. Se bilde
+- Se bilde
 
 ![img](badebasseng.JPG)
 
 | o | x | o | x | o | o | 
 
-2. Se bilde
+- Se bilde
 
 ![img](puls.JPG)
 
 | o | x | o | x | o | o | 
 
-3. En uforglemmelig taxitur!
+- En uforglemmelig taxitur!
 
 | o | o | o | x | o | x | 
 
-4. Atlanterhavsvegen
+- Atlanterhavsvegen
 
 | x | x | o | o | o | o | 
 
-5. Første kyss
+- Første kyss
 
 | o | x | o | x | o | o | 
 
