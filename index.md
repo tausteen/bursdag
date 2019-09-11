@@ -4,32 +4,44 @@ For å finne koden til boksen må du gjennom en liten rebusløype.
 
 Hver oppgave vil gi deg en nøkkel som bringer deg nærmere målet.
 
-##### Inspirasjonsbilde!
+#### Inspirasjonsbilde!
 
 ![img](escape.JPG)
 
 ### Tema for første oppgave er: Ring en venn
 
-- Se bilde
+- Halvmaraton
 
-| o | o | o | o | x | x | 
+| o | o | . | o | x | o | , | o |
 
-- Se bilde
-
-| o | x | o | o | o | o | 
-
-- En uforglemmelig taxitur!
+- 8-tall
 
 | o | x | o | o | o | o | 
 
-- Hjem fra 154 km
+- Antall måneder S+A
+
+| x |
+
+- 9-tall
 
 | x | x | o | o | o | o | 
 
-- Første kyss
+- 3-tall
 
 | o | x | o | o | o | o | 
 
-#### Løsningsordet er skjult. Bruk ditt skarpe blikk for å finne det.
+- 7-tall
+
+| o | x | o | o | o | o | 
+
+- 8-tall
+
+| o | x | o | o | o | o | 
+
+- 3-tall
+
+| o | x | o | o | o | o | 
+
+#### Løsningen er skjult. Bruk ditt skarpe blikk for å finne det.
 
 #### Neste oppgave finnes på: tausteen.github.io/løsningsord
