@@ -14,11 +14,11 @@ Hver oppgave vil gi deg en nøkkel som bringer deg nærmere målet.
 
 | o | o | . | o | x | o | , | o |
 
-- 8-tall
+- Liverpool
 
-| o | x | o | o | o | o | 
+| o | x | o | o | 
 
-- Antall måneder S+A
+- 6-tall
 
 | x |
 
@@ -34,13 +34,13 @@ Hver oppgave vil gi deg en nøkkel som bringer deg nærmere målet.
 
 | x | o | 
 
-- 8-tall
+- Lengde S+A
 
-| o | x | o | o | o | o | 
+| o | x | o | 
 
-- 3-tall
+- Postnummer
 
-| o | x | o | o | o | o | 
+| o | x | o | o |
 
 #### Løsningen er skjult. Bruk ditt skarpe blikk for å finne det.
 
