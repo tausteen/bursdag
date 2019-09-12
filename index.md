@@ -24,11 +24,11 @@ Hver oppgave vil gi deg en nøkkel som bringer deg nærmere målet.
 
 - Liverpool
 
-| o | x | o | o | 
+| o | o | x | o | 
 
-- 3-tall
+- FPL-poengsum til ligaleder av "Middag på vinner'n"
 
-| o | x | o | o | o | o | 
+| o | x | o |
 
 - Postnummer
 
@@ -38,8 +38,8 @@ Hver oppgave vil gi deg en nøkkel som bringer deg nærmere målet.
 
 | o | x | o | 
 
-- FPL-poengsum til ligaleder av "Middag på vinner'n"
+- Busdagbarnets alder
 
-| o | x | o | 
+| x | o | 
 
 #### Løsningen er skjult. Bruk ditt skarpe blikk for å finne neste hint.
