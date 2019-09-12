@@ -18,9 +18,9 @@ Hver oppgave vil gi deg en nøkkel som bringer deg nærmere målet.
 
 | ( | x | x | + | x | x | + | x | x | x | x | ) | / | 254 |
 
-- 6-tall
+- Bryllupsdag
 
-| x |
+| o | o | . | o | x | . | o | o | o | o | 
 
 - Liverpool
 
@@ -30,16 +30,16 @@ Hver oppgave vil gi deg en nøkkel som bringer deg nærmere målet.
 
 | o | x | o | o | o | o | 
 
-- 7-tall
+- Postnummer
 
-| x | o | 
+| o | o | o | x |
 
 - Lengde S+A
 
 | o | x | o | 
 
-- Postnummer
+- FPL-poengsum til ligaleder av "Middag på vinner'n"
 
-| o | x | o | o |
+| o | x | o | 
 
 #### Løsningen er skjult. Bruk ditt skarpe blikk for å finne neste hint.
