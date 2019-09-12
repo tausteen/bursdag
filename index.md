@@ -14,17 +14,17 @@ Hver oppgave vil gi deg en nøkkel som bringer deg nærmere målet.
 
 | o | o | . | o | x | o | , | o |
 
-- Liverpool
+- Første date
 
-| o | x | o | o | 
+| ( | x | x | + | x | x | + | x | x | x | x | ) | / | 254 |
 
 - 6-tall
 
 | x |
 
-- 9-tall
+- Liverpool
 
-| x | x | o | o | o | o | 
+| o | x | o | o | 
 
 - 3-tall
 
