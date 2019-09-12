@@ -42,6 +42,4 @@ Hver oppgave vil gi deg en nøkkel som bringer deg nærmere målet.
 
 | o | x | o | o |
 
-#### Løsningen er skjult. Bruk ditt skarpe blikk for å finne det.
-
-#### Neste oppgave finnes på: tausteen.github.io/løsningsord
+#### Løsningen er skjult. Bruk ditt skarpe blikk for å finne neste hint.
